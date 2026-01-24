@@ -10,7 +10,7 @@
   }
   .logo h2 {
      font-size: 45px;
-     font-weight: 900;
+     font-weight: 700;
   }
   .color-orange {
     color: #FD6E0A;
@@ -197,7 +197,7 @@
   margin: 30px 0;
  }
 
- .resume-container  .section-title {
+ .resume-container .section-title {
   color: #474747;
   font-size: 30px;
   margin-bottom: 30px;
